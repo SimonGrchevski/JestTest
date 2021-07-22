@@ -9,5 +9,5 @@ test('Hi', () => {
 });
 
 test('WTH', () => {
-  expect(strLength('pseudopseudohypoparathyroidism')).toBe(30);
+  expect(strLength('pseudo')).toBe(6);
 });
